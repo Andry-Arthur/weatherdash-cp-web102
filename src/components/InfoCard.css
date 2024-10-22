@@ -1,0 +1,30 @@
+.card {
+    background-color: #696464;
+    color: #fff;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    opacity: 0.75;
+    width: 350px; /* Set the desired width */
+    margin: 10px;
+}
+
+.card-content {
+    text-align: center;
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card-subtitle {
+    font-size: 18px;
+    margin: 0;
+}
+
+img {
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    margin: 0;
+}
