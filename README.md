@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='./AndryWEB102-weather-dash-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Comments
+## Notes
 I enjoyed applying the concepts of Browser Router and Routes as well as using other handy data visualization
 libraries to conveniently show data intereseting and intuitive ways.
 
@@ -71,10 +71,6 @@ GIF created with ...
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
