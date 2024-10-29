@@ -11,10 +11,10 @@ Time spent: **4** hours spent in total
 The following **required** functionality is completed:
 
 - [x] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
-- [ ] **Clicking on an item in the list view displays more details about it**
-  - [ ] To ensure an accurate grade, your sidebar **must** be viewable when showing the details view in your recording.
-- [ ] **Clicking on an item has a direct, unique link to that item's detail view page**
-  - [ ] To ensure an accurate grade, the URL/address bar of your web browser **must** be viewable in your recording.  
+- [x] **Clicking on an item in the list view displays more details about it**
+  - [x] To ensure an accurate grade, your sidebar **must** be viewable when showing the details view in your recording.
+- [x] **Clicking on an item has a direct, unique link to that item's detail view page**
+  - [x] To ensure an accurate grade, the URL/address bar of your web browser **must** be viewable in your recording.  
 
 
 The following **optional** features are implemented:
@@ -26,8 +26,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./AndryWEB102-weather-dash-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Comments
+I enjoyed applying the concepts of Browser Router and Routes as well as using other handy data visualization
+libraries to conveniently show data intereseting and intuitive ways.
 
 # Web Development Project 5 - *Weather Dash*
 

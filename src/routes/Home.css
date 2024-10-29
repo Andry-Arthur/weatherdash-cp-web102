@@ -96,3 +96,12 @@
   .chart {
     margin-bottom: 20px;
   }
+
+  .forecast-link {
+    color: yellow;
+    text-decoration: none; /* Optional: Remove underline */
+  }
+  
+  .forecast-link:hover {
+    color: orange; /* Optional: Change color on hover */
+  }

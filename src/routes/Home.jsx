@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { Link } from 'react-router-dom';
 import InfoCard from '../components/InfoCard';
 import './Home.css';
 
@@ -92,7 +93,11 @@ const API_KEY = import.meta.env.VITE_API_KEY;
                 <tbody>
                   {filteredForecastData.map((day, index) => (
                     <tr key={index} className="forecast-item">
-                      <td>{day.datetime}</td>
+                      <td>
+                        <Link to={`/forecast/${day.datetime}`} state={{ forecast: day }} className="forecast-link">
+                        {day.datetime}
+                        </Link>
+                       </td>
                       <td>{day.temp}</td>
                       <td>{day.max_temp}</td>
                       <td>{day.min_temp}</td>
