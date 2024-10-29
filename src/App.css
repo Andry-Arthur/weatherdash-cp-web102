@@ -99,3 +99,26 @@
 .read-the-docs {
   color: #888;
 }
+
+.info-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.responsive-container {
+  width: 40%;
+}
+
+.forecast-table {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.chart-container {
+  width: 100%;
+}
+
+.chart {
+  margin-bottom: 20px;
+}

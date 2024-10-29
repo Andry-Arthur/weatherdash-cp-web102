@@ -13,6 +13,9 @@
   -moz-osx-font-smoothing: grayscale;
   background-image: url('assets/blue-skies.jpg');
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
 }
 
 a {
